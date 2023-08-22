@@ -4,10 +4,10 @@
 
 <div align="center">  <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%235EF72C&size=26&lines=Hey!+This+is+Swastick Das;I'm+a+Competitive+Programmer;An+Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75922&width=435&separator=%3C&lines=Hey!+This+is+Swastick+Das;%3CI'm+a+Competitive+Programmer;%3CA+Mathematics+Lover+;%3CAn+Open+Source+Enthusiast)](https://git.io/typing-svg)
 </div> 
 <p align="center"><em>
-I’m a final year student in Computer Engineering from AIT Pune .<br>
+I’m a second year student in Computer Engineering from AIT Pune .<br>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="35px"height="25px"> I enjoy learning new things. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="35px"height="25px"> <br> 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"height="30px"> Looking to work on Projects <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"height="30px">
 </em></p>
