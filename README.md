@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://github.com/algoplutus1708/algoplutus1708/blob/main/banner.png" /> </p>
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"height="30px"></h1>
-<h1 align="center">Swastick This Side/h1>
+<h1 align="center">Swastick This Side</h1>
 
 <div align="center">  <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
 
