@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://github.com/algoplutus1708/algoplutus1708/blob/main/banner.png" /> </p>
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"height="30px"></h1>
-<h1 align="center">Swastick Das This Side</h1>
+<h1 align="center">I'm Swastick Das</h1>
 
 <div align="center">  <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
 
@@ -9,7 +9,7 @@
 <p align="center"><em>
 I’m a second year student in Computer Engineering from AIT Pune .<br>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="35px"height="25px"> I enjoy learning new things. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="35px"height="25px"> <br> 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"height="30px"> Looking to work on Projects <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"height="30px">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"height="30px"> Looking to work on Projects. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"height="30px">
 </em></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bhaumikmaan&label=Profile%20Views&theme=react-dark&style=plastic" alt="swastickdas" /> </p>
