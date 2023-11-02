@@ -39,10 +39,3 @@ I’m a second year student in Computer Engineering from AIT Pune .<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=algoplutus1708&show_icons=true&locale=en&layout=compact" alt="swastickdas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=algoplutus1708&show_icons=true&locale=en" alt="swastickdas" /></p>
-
-
-<p align="center"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@algoplutus1708/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@algoplutus1708/0" alt="Latest Articles"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@algoplutus1708/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@algoplutus1708/1" alt="Latest Articles"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@algoplutus1708/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@algoplutus1708/2" alt="Latest Articles">  
-</p>
