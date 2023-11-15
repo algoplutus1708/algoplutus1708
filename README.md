@@ -39,3 +39,6 @@ I’m a second year student in Computer Engineering from AIT Pune .<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=algoplutus1708&show_icons=true&locale=en&layout=compact" alt="swastickdas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=algoplutus1708&show_icons=true&locale=en" alt="swastickdas" /></p>
+
+## You can support me by ....
+<p align="center"><a href="https://www.buymeacoffee.com/swastickdas17"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="swastickdas" /></a><a href="https://ko-fi.com/swastickdas17#paypalModal"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="swastickdas" /></a></p><br><br>
